@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     padding: 20px;
     display: flex;
     gap: 40px;
+    background-color: #f9fafb;
 }
 
 .calendar {
